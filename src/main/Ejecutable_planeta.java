@@ -29,6 +29,6 @@ public class Ejecutable_planeta {
          System.out.println("Densidad = " + tierra.getDensidad());
          tierra.setVista(tierra.getDistancia() >= tierra.getUA());
          System.out.println("Es exterior = " + tierra.isVista());
-        
+           // prueba de github
  }
 }
