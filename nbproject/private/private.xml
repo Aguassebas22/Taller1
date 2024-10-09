@@ -3,11 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Jva/Taller_2/src/Carros/Carro.java</file>
-            <file>file:/C:/Jva/Taller_2/src/Carros/Color.java</file>
-            <file>file:/C:/Jva/Taller_2/src/main/Carro_Ejecutable.java</file>
-            <file>file:/C:/Jva/Taller_2/src/Carros/TiposCombustible.java</file>
-            <file>file:/C:/Jva/Taller_2/src/Carros/TiposCarros.java</file>
+            <file>file:/C:/Jva/Taller_2/src/Banco/CuentaAhorro.java</file>
+            <file>file:/C:/Jva/Taller_2/src/Banco/CuentaCorriente.java</file>
+            <file>file:/C:/Jva/Taller_2/src/Banco/Cuenta.java</file>
+            <file>file:/C:/Jva/Taller_2/src/main/Cuenta_ejecutar.java</file>
         </group>
     </open-files>
 </project-private>
